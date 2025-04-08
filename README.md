@@ -1,6 +1,6 @@
 # Supermarket Cashier
 
-A simple supermarket cashier system built using C programming. This project allows users to manage products, handle billing, and simulate a cashier interface through a command-line interface.
+A simple supermarket cashier system built using C# programming. This project allows users to manage products, handle billing, and simulate a cashier interface through a command-line interface.
 
 ## Features
 
@@ -14,8 +14,8 @@ A simple supermarket cashier system built using C programming. This project allo
 
 ## Technologies Used
 
-- Language: C
-- IDE: Code::Blocks / GCC
+- Language: C#
+- IDE: Visual studio
 - Platform: Windows / Linux (console based)
 
 ## Getting Started
@@ -24,7 +24,7 @@ A simple supermarket cashier system built using C programming. This project allo
 
 To compile and run the project, you need:
 
-- A C compiler (like GCC)
+- A C# compiler
 - A terminal or console environment
 - Code::Blocks (optional)
 
